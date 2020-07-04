@@ -1,0 +1,74 @@
+-IC:/Users/UFPR/Documents/PlatformIO/Projects/THINGS/include
+-IC:/Users/UFPR/Documents/PlatformIO/Projects/THINGS/src
+-IC:/Users/UFPR/.platformio/lib/Adafruit Unified Sensor_ID31
+-IC:/Users/UFPR/.platformio/lib/ThingsBoard_ID5856/src
+-IC:/Users/UFPR/.platformio/lib/PubSubClient_ID89/src
+-IC:/Users/UFPR/.platformio/lib/ArduinoHttpClient_ID798/src
+-IC:/Users/UFPR/.platformio/lib/ArduinoJson_ID64/src
+-IC:/Users/UFPR/.platformio/packages/framework-arduinoespressif8266@1.20401.3-puya/libraries/ESP8266WiFi/src
+-IC:/Users/UFPR/.platformio/lib/Adafruit BMP085 Library_ID525
+-IC:/Users/UFPR/.platformio/packages/framework-arduinoespressif8266@1.20401.3-puya/libraries/Wire
+-IC:/Users/UFPR/.platformio/packages/framework-arduinoespressif8266@1.20401.3-puya/tools/sdk/include
+-IC:/Users/UFPR/.platformio/packages/framework-arduinoespressif8266@1.20401.3-puya/tools/sdk/libc/xtensa-lx106-elf/include
+-IC:/Users/UFPR/.platformio/packages/framework-arduinoespressif8266@1.20401.3-puya/cores/esp8266
+-IC:/Users/UFPR/.platformio/packages/framework-arduinoespressif8266@1.20401.3-puya/tools/sdk/lwip2/include
+-IC:/Users/UFPR/.platformio/packages/framework-arduinoespressif8266@1.20401.3-puya/variants/nodemcu
+-IC:/Users/UFPR/.platformio/lib/Adafruit BME280 Library_ID166
+-IC:/Users/UFPR/.platformio/lib/Adafruit BMP085 Unified_ID16
+-IC:/Users/UFPR/.platformio/lib/Adafruit BMP280 Library_ID528
+-IC:/Users/UFPR/.platformio/lib/Adafruit Unified Sensor_ID31@1.0.2
+-IC:/Users/UFPR/.platformio/lib/Adafruit_Sensor
+-IC:/Users/UFPR/.platformio/lib/ArduinoJson_ID64@6.11.4/src
+-IC:/Users/UFPR/.platformio/lib/DHT sensor library_ID19
+-IC:/Users/UFPR/.platformio/lib/DHT sensor library_ID19@1.3.0
+-IC:/Users/UFPR/.platformio/lib/DHT_ID1671
+-IC:/Users/UFPR/.platformio/lib/ESP8266 and ESP32 Oled Driver for SSD1306 display_ID2978/src
+-IC:/Users/UFPR/.platformio/lib/ESP8266_SSD1306_ID562/src
+-IC:/Users/UFPR/.platformio/lib/ESPAsyncTCP_ID305/src
+-IC:/Users/UFPR/.platformio/lib/LiquidCrystal_ID136
+-IC:/Users/UFPR/.platformio/lib/LoRa_ID1167/src
+-IC:/Users/UFPR/.platformio/lib/TaskScheduler_ID721/src
+-IC:/Users/UFPR/.platformio/lib/WiFi/src
+-IC:/Users/UFPR/.platformio/lib/WiFi_ID870/src
+-IC:/Users/UFPR/.platformio/lib/painlessMesh_ID1269/src
+-IC:/Users/UFPR/.platformio/packages/framework-arduinoespressif8266@1.20401.3-puya/libraries/ArduinoOTA
+-IC:/Users/UFPR/.platformio/packages/framework-arduinoespressif8266@1.20401.3-puya/libraries/DNSServer/src
+-IC:/Users/UFPR/.platformio/packages/framework-arduinoespressif8266@1.20401.3-puya/libraries/EEPROM
+-IC:/Users/UFPR/.platformio/packages/framework-arduinoespressif8266@1.20401.3-puya/libraries/ESP8266AVRISP/src
+-IC:/Users/UFPR/.platformio/packages/framework-arduinoespressif8266@1.20401.3-puya/libraries/ESP8266HTTPClient/src
+-IC:/Users/UFPR/.platformio/packages/framework-arduinoespressif8266@1.20401.3-puya/libraries/ESP8266HTTPUpdateServer/src
+-IC:/Users/UFPR/.platformio/packages/framework-arduinoespressif8266@1.20401.3-puya/libraries/ESP8266LLMNR
+-IC:/Users/UFPR/.platformio/packages/framework-arduinoespressif8266@1.20401.3-puya/libraries/ESP8266NetBIOS
+-IC:/Users/UFPR/.platformio/packages/framework-arduinoespressif8266@1.20401.3-puya/libraries/ESP8266SSDP
+-IC:/Users/UFPR/.platformio/packages/framework-arduinoespressif8266@1.20401.3-puya/libraries/ESP8266WebServer/src
+-IC:/Users/UFPR/.platformio/packages/framework-arduinoespressif8266@1.20401.3-puya/libraries/ESP8266WiFiMesh/src
+-IC:/Users/UFPR/.platformio/packages/framework-arduinoespressif8266@1.20401.3-puya/libraries/ESP8266httpUpdate/src
+-IC:/Users/UFPR/.platformio/packages/framework-arduinoespressif8266@1.20401.3-puya/libraries/ESP8266mDNS
+-IC:/Users/UFPR/.platformio/packages/framework-arduinoespressif8266@1.20401.3-puya/libraries/Ethernet/src
+-IC:/Users/UFPR/.platformio/packages/framework-arduinoespressif8266@1.20401.3-puya/libraries/GDBStub/src
+-IC:/Users/UFPR/.platformio/packages/framework-arduinoespressif8266@1.20401.3-puya/libraries/Hash/src
+-IC:/Users/UFPR/.platformio/packages/framework-arduinoespressif8266@1.20401.3-puya/libraries/SD/src
+-IC:/Users/UFPR/.platformio/packages/framework-arduinoespressif8266@1.20401.3-puya/libraries/SPI
+-IC:/Users/UFPR/.platformio/packages/framework-arduinoespressif8266@1.20401.3-puya/libraries/SPISlave/src
+-IC:/Users/UFPR/.platformio/packages/framework-arduinoespressif8266@1.20401.3-puya/libraries/Servo/src
+-IC:/Users/UFPR/.platformio/packages/framework-arduinoespressif8266@1.20401.3-puya/libraries/SoftwareSerial
+-IC:/Users/UFPR/.platformio/packages/framework-arduinoespressif8266@1.20401.3-puya/libraries/TFT_Touch_Shield_V2
+-IC:/Users/UFPR/.platformio/packages/framework-arduinoespressif8266@1.20401.3-puya/libraries/Ticker
+-IC:/Users/UFPR/.platformio/packages/framework-arduinoespressif8266@1.20401.3-puya/libraries/esp8266/src
+-IC:/Users/UFPR/.platformio/packages/toolchain-xtensa@1.40802.0/xtensa-lx106-elf/include
+-IC:/Users/UFPR/.platformio/packages/toolchain-xtensa@1.40802.0/xtensa-lx106-elf/include/c++/4.8.2
+-IC:/Users/UFPR/.platformio/packages/toolchain-xtensa@1.40802.0/xtensa-lx106-elf/include/c++/4.8.2/xtensa-lx106-elf
+-IC:/Users/UFPR/.platformio/packages/toolchain-xtensa@1.40802.0/lib/gcc/xtensa-lx106-elf/4.8.2/include
+-IC:/Users/UFPR/.platformio/packages/toolchain-xtensa@1.40802.0/lib/gcc/xtensa-lx106-elf/4.8.2/include-fixed
+-IC:/Users/UFPR/.platformio/packages/tool-unity
+-DF_CPU=80000000L
+-D__ets__
+-DICACHE_FLASH
+-DPLATFORMIO=40003
+-DESP8266
+-DARDUINO_ARCH_ESP8266
+-DARDUINO_ESP8266_ESP12
+-DARDUINO=10805
+-DARDUINO_BOARD="PLATFORMIO_ESP12E"
+-DLWIP_OPEN_SRC
+-DTCP_MSS=536
