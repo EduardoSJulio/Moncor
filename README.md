@@ -1,5 +1,5 @@
 ## Monitoramento Contínuo de Rio
-Este repositório é destinado ao projeto de Monitoramento Contínuo de Rio (MonCoR) desenvolvido por estudantes da Universidade Federal do Paraná (UFPR) sob orientação do Dr. Eduardo Ribeiro Parente, professor adjunto do Departamento de Engenharia Elétrica (DELT). As pesquisas são realizadas no Laboratório de Medidas, Magnetismo e Instrumentação situado nas dependências da UFPR.
+Este repositório é destinado ao projeto de Monitoramento Contínuo de Rio (MonCoR) desenvolvido por estudantes da Universidade Federal do Paraná (UFPR) sob orientação do Dr. Eduardo Ribeiro Parente, professor adjunto do Departamento de Engenharia Elétrica (DELT). As pesquisas são realizadas no Laboratório de Medidas, Magnetismo e Instrumentação (LAMMI) situado nas dependências da UFPR.
 A criação do repositório foi uma iniciativa do estudante de Engenharia Elétrica, Eduardo da Silva Julio, com objetivo de gerenciar e armazenar os códigos construídos durante a iniciação científica (2019 - Atual).
 
 ## Contexto
